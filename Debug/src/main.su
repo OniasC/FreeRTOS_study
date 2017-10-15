@@ -1,0 +1,9 @@
+main.cpp:32:5:int main()	24	static
+main.cpp:69:6:void vTask1(void*)	32	static
+main.cpp:83:6:void vTask2(void*)	24	static
+main.cpp:100:17:void EVAL_AUDIO_TransferComplete_CallBack(uint32_t, uint32_t)	16	static
+main.cpp:109:21:uint16_t EVAL_AUDIO_GetSampleCallBack()	4	static
+main.cpp:114:17:void vApplicationStackOverflowHook(TaskHandle_t, signed char*)	16	static
+main.cpp:120:17:void vApplicationIdleHook()	16	static
+main.cpp:125:17:void vApplicationTickHook()	4	static
+main.cpp:128:17:void vApplicationMallocFailedHook()	4	static
